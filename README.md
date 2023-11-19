@@ -1,5 +1,5 @@
 # Joseph Nguyen (he/him)
-<img align="right" alt="Coding Gif" width="400" src="![giphy](https://github.com/jjjosephn/jjjosephn/assets/144830286/43f73878-17ef-4f73-82e6-6414a8701f0d)"/>
+<img align="right" alt="Coding Gif" width="400" src="https://media3.giphy.com/media/zNpoqqsIUVqlDcLokQ/200w.gif?cid=6c09b952fkrg280qlghr2k6m7qhjrv2nkbmzyue5kwq9e5fa&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
 
 
 - 🏫 Studying Computer Science at San Jose State Univeristy
