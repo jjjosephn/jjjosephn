@@ -12,5 +12,5 @@
 ### Hobbies
 - 👟 I run a sneaker business ([sickiqs](https://www.instagram.com/sickiqs))
 - ⛹ I love playing basketball
-- 🏋️‍♂️ I enjoy lifitng weights
+- 🏋️‍♂️ I enjoy lifting weights
 - ⛺ I love new adventures
